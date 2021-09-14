@@ -1,3 +1,3 @@
 # mandelbrot_set_python
-This python script produce a mandelbrot fractal image<br>
+This python script produces a mandelbrot fractal image<br>
 
